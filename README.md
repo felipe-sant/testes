@@ -16,7 +16,7 @@ Olá, meu nome é Luiz Felipe, mas pode me chamar só de Felipe, nesse repositó
 1. Abra o CMD no local que deseja clonar o repositório e execute este comando:
 
 ```
-git clone https://github.com/felipe-sant/portfolio.git
+git clone https://github.com/felipe-sant/testes.git
 ```
 
 2. Para instalar as dependencias siga os seguintes comandos:
