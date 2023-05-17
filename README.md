@@ -22,7 +22,7 @@ git clone https://github.com/felipe-sant/testes.git
 2. Para instalar as dependencias siga os seguintes comandos:
 
 ```
-cd portfolio/src/
+cd testes/src/
 python -m venv venv
 .\venv\Scripts\activate
 pip install -r ../requirements.txt
