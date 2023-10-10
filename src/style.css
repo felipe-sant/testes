@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    background-color: #202020;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+main div.list {
+    margin: 20px;
+    background-color: red;
+    display: flex;
+}
+
+main div.list.primeiro div {
+    margin: 10px auto;
+    background-color: blue;
+    height: 300px;
+    width: 225px;
+}
+
+main div.list.segundo div {
+    margin: 10px auto;
+    background-color: blue;
+    height: 300px;
+    width: 150px;
+}
